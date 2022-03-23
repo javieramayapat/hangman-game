@@ -1,6 +1,6 @@
 # 🎮 Hangman Game 🎮
 
-Development of the Hangman game, creating by console using ASCII code to draw each scenario and putting into practice the knowledge acquired in Python.
+🎮 Development of the Hangman game, created by the console, using ASCII code to draw each scenario and put into practice the knowledge acquired in Python.
 
 I invite you to check my ASCII art created for this game in this [📑ASCII Hangman Art Gist 🕹️](http://gist.github.com/javieramayapat/76a5d33b59b8b5fc58389790932faa22 "see my own ascii hangman art here ")
 
